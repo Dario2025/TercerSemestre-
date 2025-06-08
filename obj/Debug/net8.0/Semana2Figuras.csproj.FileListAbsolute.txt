@@ -12,3 +12,4 @@ C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\obj\Debug\net8.0\re
 C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\obj\Debug\net8.0\Semana2Figuras.pdb
 C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\obj\Debug\net8.0\Semana2Figuras.genruntimeconfig.cache
 C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\obj\Debug\net8.0\ref\Semana2Figuras.dll
+C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\obj\Debug\net8.0\Semana2Figuras.sourcelink.json
