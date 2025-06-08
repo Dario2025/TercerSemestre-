@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\bin\Debug\net8.0\Semana2Figuras.exe
+C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\bin\Debug\net8.0\Semana2Figuras.deps.json
+C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\bin\Debug\net8.0\Semana2Figuras.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\bin\Debug\net8.0\Semana2Figuras.dll
+C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\bin\Debug\net8.0\Semana2Figuras.pdb
+C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\obj\Debug\net8.0\Semana2Figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\obj\Debug\net8.0\Semana2Figuras.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\obj\Debug\net8.0\Semana2Figuras.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\obj\Debug\net8.0\Semana2Figuras.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\obj\Debug\net8.0\Semana2Figuras.dll
+C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\obj\Debug\net8.0\refint\Semana2Figuras.dll
+C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\obj\Debug\net8.0\Semana2Figuras.pdb
+C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\obj\Debug\net8.0\Semana2Figuras.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\obj\Debug\net8.0\ref\Semana2Figuras.dll
