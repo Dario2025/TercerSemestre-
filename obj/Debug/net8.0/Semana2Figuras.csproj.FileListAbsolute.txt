@@ -13,3 +13,11 @@ C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\obj\Debug\net8.0\Se
 C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\obj\Debug\net8.0\Semana2Figuras.genruntimeconfig.cache
 C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\obj\Debug\net8.0\ref\Semana2Figuras.dll
 C:\Users\Usuario\OneDrive\Documents\Proyectos\Semana2Figuras\obj\Debug\net8.0\Semana2Figuras.sourcelink.json
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\obj\Debug\net8.0\Semana2Figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\obj\Debug\net8.0\Semana2Figuras.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\obj\Debug\net8.0\Semana2Figuras.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\obj\Debug\net8.0\Semana2Figuras.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\obj\Debug\net8.0\Semana2Figuras.sourcelink.json
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\obj\Debug\net8.0\Semana2Figuras.dll
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\obj\Debug\net8.0\refint\Semana2Figuras.dll
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\obj\Debug\net8.0\Semana2Figuras.pdb

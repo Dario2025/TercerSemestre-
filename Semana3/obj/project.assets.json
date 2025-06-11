@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\Semana2Figuras.csproj",
-      "projectName": "Semana2Figuras",
-      "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\Semana2Figuras.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\Semana3\\Semana3.csproj",
+      "projectName": "Semana3",
+      "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\Semana3\\Semana3.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\Semana3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
