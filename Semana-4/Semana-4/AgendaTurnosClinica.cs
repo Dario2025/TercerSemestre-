@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace AgendaClinica
 {
@@ -13,31 +12,43 @@ namespace AgendaClinica
         public string Especialidad { get; set; } = string.Empty;
     }
 
-    // Clase que maneja la lista de turnos de pacientes
+    // Clase que maneja los turnos de pacientes
     public class AgendaTurnos
     {
-        // Lista para almacenar los pacientes con turno
-        private List<Paciente> listaPacientes = new List<Paciente>();
+        // Arreglo para almacenar hasta 100 pacientes con turno
+        private Paciente[] listaPacientes = new Paciente[100];
+
+        // Variable que lleva el control de cuántos pacientes se han registrado
+        private int cantidadPacientes = 0;
 
         // Método para agregar un nuevo turno
         public void AgregarTurno(Paciente paciente)
         {
-            listaPacientes.Add(paciente);
-            Console.WriteLine("Turno agregado correctamente.");
+            if (cantidadPacientes < listaPacientes.Length)
+            {
+                listaPacientes[cantidadPacientes] = paciente;
+                cantidadPacientes++;
+                Console.WriteLine("Turno agregado correctamente.");
+            }
+            else
+            {
+                Console.WriteLine("No se pueden agregar más turnos. Capacidad máxima alcanzada.");
+            }
         }
 
         // Método para mostrar todos los turnos registrados
         public void MostrarTurnos()
         {
-            if (listaPacientes.Count == 0)
+            if (cantidadPacientes == 0)
             {
                 Console.WriteLine("\nNo hay turnos registrados.");
                 return;
             }
 
             Console.WriteLine("\n--- Turnos registrados ---");
-            foreach (var p in listaPacientes)
+            for (int i = 0; i < cantidadPacientes; i++)
             {
+                var p = listaPacientes[i];
                 Console.WriteLine($"Nombre: {p.Nombre}, Cédula: {p.Cedula}, Fecha: {p.FechaTurno.ToShortDateString()}, Especialidad: {p.Especialidad}");
             }
         }
@@ -45,15 +56,23 @@ namespace AgendaClinica
         // Método para buscar un turno por número de cédula
         public void BuscarPorCedula(string cedula)
         {
-            var encontrado = listaPacientes.Find(p => p.Cedula == cedula);
-            if (encontrado != null)
+            bool encontrado = false;
+
+            for (int i = 0; i < cantidadPacientes; i++)
             {
-                Console.WriteLine("\nTurno encontrado:");
-                Console.WriteLine($"Nombre: {encontrado.Nombre}");
-                Console.WriteLine($"Fecha del turno: {encontrado.FechaTurno.ToShortDateString()}");
-                Console.WriteLine($"Especialidad: {encontrado.Especialidad}");
+                if (listaPacientes[i].Cedula == cedula)
+                {
+                    var p = listaPacientes[i];
+                    Console.WriteLine("\nTurno encontrado:");
+                    Console.WriteLine($"Nombre: {p.Nombre}");
+                    Console.WriteLine($"Fecha del turno: {p.FechaTurno.ToShortDateString()}");
+                    Console.WriteLine($"Especialidad: {p.Especialidad}");
+                    encontrado = true;
+                    break;
+                }
             }
-            else
+
+            if (!encontrado)
             {
                 Console.WriteLine("\nNo se encontró un turno con esa cédula.");
             }
@@ -65,6 +84,7 @@ namespace AgendaClinica
     {
         static void Main(string[] args)
         {
+            // Crear instancia del sistema de agenda
             AgendaTurnos agenda = new AgendaTurnos();
             bool salir = false;
 
