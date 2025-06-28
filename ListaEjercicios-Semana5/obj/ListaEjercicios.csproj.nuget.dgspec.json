@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\Semana5\\Semana5.csproj": {}
+    "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\ListaEjercicios-Semana5\\ListaEjercicios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\Semana5\\Semana5.csproj": {
+    "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\ListaEjercicios-Semana5\\ListaEjercicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\Semana5\\Semana5.csproj",
-        "projectName": "Semana5",
-        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\Semana5\\Semana5.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\ListaEjercicios-Semana5\\ListaEjercicios.csproj",
+        "projectName": "ListaEjercicios",
+        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\ListaEjercicios-Semana5\\ListaEjercicios.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\Semana5\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\ListaEjercicios-Semana5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"

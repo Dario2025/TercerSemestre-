@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\ListaEjercicios\\ListaEjercicios.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\ListaEjercicios-Semana5\\ListaEjercicios.csproj",
       "projectName": "ListaEjercicios",
-      "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\ListaEjercicios\\ListaEjercicios.csproj",
+      "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\ListaEjercicios-Semana5\\ListaEjercicios.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\ListaEjercicios\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\ListaEjercicios-Semana5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
