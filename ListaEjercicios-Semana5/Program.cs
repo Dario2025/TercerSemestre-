@@ -42,7 +42,7 @@ class Program
         abecedarioService.MostrarAbecedarioFiltrado();
 
         // =======================
-        // EJERCICIO EXTRA: Asignaturas
+        // EJERCICIO 2: Asignaturas
         // =======================
         Console.WriteLine("\nEjercicio: Asignaturas");
         var asignaturaService = new AsignaturaService();
