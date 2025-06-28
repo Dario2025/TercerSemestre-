@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\ListaEjercicios\bin\Debug\net8.0\ListaEjercicios.exe
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\ListaEjercicios\bin\Debug\net8.0\ListaEjercicios.deps.json
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\ListaEjercicios\bin\Debug\net8.0\ListaEjercicios.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\ListaEjercicios\bin\Debug\net8.0\ListaEjercicios.dll
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\ListaEjercicios\bin\Debug\net8.0\ListaEjercicios.pdb
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\ListaEjercicios\obj\Debug\net8.0\ListaEjercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\ListaEjercicios\obj\Debug\net8.0\ListaEjercicios.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\ListaEjercicios\obj\Debug\net8.0\ListaEjercicios.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\ListaEjercicios\obj\Debug\net8.0\ListaEjercicios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\ListaEjercicios\obj\Debug\net8.0\ListaEjercicios.sourcelink.json
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\ListaEjercicios\obj\Debug\net8.0\ListaEjercicios.dll
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\ListaEjercicios\obj\Debug\net8.0\refint\ListaEjercicios.dll
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\ListaEjercicios\obj\Debug\net8.0\ListaEjercicios.pdb
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\ListaEjercicios\obj\Debug\net8.0\ListaEjercicios.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\ListaEjercicios\obj\Debug\net8.0\ref\ListaEjercicios.dll
