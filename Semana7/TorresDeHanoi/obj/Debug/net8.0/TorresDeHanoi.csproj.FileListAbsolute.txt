@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana7\TorresDeHanoi\bin\Debug\net8.0\TorresDeHanoi.exe
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana7\TorresDeHanoi\bin\Debug\net8.0\TorresDeHanoi.deps.json
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana7\TorresDeHanoi\bin\Debug\net8.0\TorresDeHanoi.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana7\TorresDeHanoi\bin\Debug\net8.0\TorresDeHanoi.dll
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana7\TorresDeHanoi\bin\Debug\net8.0\TorresDeHanoi.pdb
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana7\TorresDeHanoi\obj\Debug\net8.0\TorresDeHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana7\TorresDeHanoi\obj\Debug\net8.0\TorresDeHanoi.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana7\TorresDeHanoi\obj\Debug\net8.0\TorresDeHanoi.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana7\TorresDeHanoi\obj\Debug\net8.0\TorresDeHanoi.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana7\TorresDeHanoi\obj\Debug\net8.0\TorresDeHanoi.sourcelink.json
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana7\TorresDeHanoi\obj\Debug\net8.0\TorresDeHanoi.dll
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana7\TorresDeHanoi\obj\Debug\net8.0\refint\TorresDeHanoi.dll
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana7\TorresDeHanoi\obj\Debug\net8.0\TorresDeHanoi.pdb
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana7\TorresDeHanoi\obj\Debug\net8.0\TorresDeHanoi.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana7\TorresDeHanoi\obj\Debug\net8.0\ref\TorresDeHanoi.dll

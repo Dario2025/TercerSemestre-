@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\TercerSemestre-.csproj",
-      "projectName": "TercerSemestre-",
-      "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\TercerSemestre-.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\Semana7\\ParentesisBalanceados\\ParentesisBalanceados.csproj",
+      "projectName": "ParentesisBalanceados",
+      "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\Semana7\\ParentesisBalanceados\\ParentesisBalanceados.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\Semana7\\ParentesisBalanceados\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"

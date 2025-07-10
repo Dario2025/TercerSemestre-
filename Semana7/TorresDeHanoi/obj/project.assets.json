@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\TercerSemestre-.csproj",
-      "projectName": "TercerSemestre-",
-      "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\TercerSemestre-.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\Semana7\\TorresDeHanoi\\TorresDeHanoi.csproj",
+      "projectName": "TorresDeHanoi",
+      "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\Semana7\\TorresDeHanoi\\TorresDeHanoi.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\Proyectos\\TercerSemestre-\\Semana7\\TorresDeHanoi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
