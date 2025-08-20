@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AsignacionAsientos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+469901d355bea653acd87c4f7d8c672cfd9f0269")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96f37e7d2ec24a6fd72368aca9ef8c4aa2189ffa")]
 [assembly: System.Reflection.AssemblyProductAttribute("AsignacionAsientos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AsignacionAsientos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
