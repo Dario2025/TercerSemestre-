@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-class Program
+﻿class Program
 {
     // Diccionario Español -> Inglés
     static Dictionary<string, string> diccionario = new Dictionary<string, string>()
