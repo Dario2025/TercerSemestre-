@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\CPE3\bin\Debug\net8.0\CPE3.exe
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\CPE3\bin\Debug\net8.0\CPE3.deps.json
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\CPE3\bin\Debug\net8.0\CPE3.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\CPE3\bin\Debug\net8.0\CPE3.dll
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\CPE3\bin\Debug\net8.0\CPE3.pdb
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\CPE3\obj\Debug\net8.0\CPE3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\CPE3\obj\Debug\net8.0\CPE3.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\CPE3\obj\Debug\net8.0\CPE3.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\CPE3\obj\Debug\net8.0\CPE3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\CPE3\obj\Debug\net8.0\CPE3.sourcelink.json
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\CPE3\obj\Debug\net8.0\CPE3.dll
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\CPE3\obj\Debug\net8.0\refint\CPE3.dll
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\CPE3\obj\Debug\net8.0\CPE3.pdb
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\CPE3\obj\Debug\net8.0\CPE3.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\CPE3\obj\Debug\net8.0\ref\CPE3.dll
