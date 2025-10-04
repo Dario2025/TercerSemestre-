@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana16CPE\bin\Debug\net8.0\Semana16CPE.exe
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana16CPE\bin\Debug\net8.0\Semana16CPE.deps.json
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana16CPE\bin\Debug\net8.0\Semana16CPE.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana16CPE\bin\Debug\net8.0\Semana16CPE.dll
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana16CPE\bin\Debug\net8.0\Semana16CPE.pdb
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana16CPE\obj\Debug\net8.0\Semana16CPE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana16CPE\obj\Debug\net8.0\Semana16CPE.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana16CPE\obj\Debug\net8.0\Semana16CPE.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana16CPE\obj\Debug\net8.0\Semana16CPE.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana16CPE\obj\Debug\net8.0\Semana16CPE.sourcelink.json
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana16CPE\obj\Debug\net8.0\Semana16CPE.dll
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana16CPE\obj\Debug\net8.0\refint\Semana16CPE.dll
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana16CPE\obj\Debug\net8.0\Semana16CPE.pdb
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana16CPE\obj\Debug\net8.0\Semana16CPE.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documents\Proyectos\TercerSemestre-\Semana16CPE\obj\Debug\net8.0\ref\Semana16CPE.dll
